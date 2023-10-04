@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ed58a7-3b10-4233-848b-e61281746721" name="Changes" comment="" />
+    <list default="true" id="26ed58a7-3b10-4233-848b-e61281746721" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootcamp2020Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bootcamp2020Selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/Google.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/JQuery.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LesKodeIt/LesKodeIt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter/Twitter.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +40,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
